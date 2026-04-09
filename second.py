@@ -1,2 +1,0 @@
-a="neha"
-print(a)
